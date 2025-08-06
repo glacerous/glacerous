@@ -4,21 +4,6 @@
   Information Systems undergraduate
 </p>
 
----
-
-### 🧰 Tech Toolbox
-
-<p>
-  🛠️ Languages & Tools I use often:<br>
-  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
